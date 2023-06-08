@@ -23,6 +23,6 @@ public class ImageController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Welcome!";
+        return "Welcome to my app!";
     }
 }
